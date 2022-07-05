@@ -1,0 +1,405 @@
+ ThreeColoringAlgorithmsTests.ColoringTests.BigRandomGraphsTest
+   Source: CombineColoringTest.cs line 74
+   Duration: 36.9 min
+
+  Standard Output: 
+    Graph with 50 vertices and 10 edge percentage:
+    Brute time: 00:00:00.1444733
+    CSP time  : 00:00:00.0287838
+    -----------------------------------------------
+    Graph with 50 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0000746
+    CSP time  : 00:00:00.0164929
+    -----------------------------------------------
+    Graph with 50 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000755
+    CSP time  : 00:00:00.0267059
+    -----------------------------------------------
+    Graph with 50 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000096
+    CSP time  : 00:00:00.0409047
+    -----------------------------------------------
+    Graph with 50 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000100
+    CSP time  : 00:00:00.0500274
+    -----------------------------------------------
+    Graph with 100 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0015608
+    CSP time  : 00:00:00.0228683
+    -----------------------------------------------
+    Graph with 100 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0000299
+    CSP time  : 00:00:00.0944595
+    -----------------------------------------------
+    Graph with 100 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000801
+    CSP time  : 00:00:00.1772437
+    -----------------------------------------------
+    Graph with 100 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000317
+    CSP time  : 00:00:00.2219979
+    -----------------------------------------------
+    Graph with 100 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000114
+    CSP time  : 00:00:00.2500665
+    -----------------------------------------------
+    Graph with 150 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0113718
+    CSP time  : 00:00:00.0518429
+    -----------------------------------------------
+    Graph with 150 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001958
+    CSP time  : 00:00:00.2528064
+    -----------------------------------------------
+    Graph with 150 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000298
+    CSP time  : 00:00:00.4929149
+    -----------------------------------------------
+    Graph with 150 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000263
+    CSP time  : 00:00:00.6148387
+    -----------------------------------------------
+    Graph with 150 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000257
+    CSP time  : 00:00:00.7157508
+    -----------------------------------------------
+    Graph with 200 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0015054
+    CSP time  : 00:00:00.1227673
+    -----------------------------------------------
+    Graph with 200 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001130
+    CSP time  : 00:00:00.5644002
+    -----------------------------------------------
+    Graph with 200 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000373
+    CSP time  : 00:00:00.9078998
+    -----------------------------------------------
+    Graph with 200 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000181
+    CSP time  : 00:00:01.2841538
+    -----------------------------------------------
+    Graph with 200 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000229
+    CSP time  : 00:00:01.5479014
+    -----------------------------------------------
+    Graph with 250 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0205728
+    CSP time  : 00:00:00.1873840
+    -----------------------------------------------
+    Graph with 250 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0002817
+    CSP time  : 00:00:00.9299583
+    -----------------------------------------------
+    Graph with 250 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000222
+    CSP time  : 00:00:01.8150956
+    -----------------------------------------------
+    Graph with 250 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000193
+    CSP time  : 00:00:02.3698487
+    -----------------------------------------------
+    Graph with 250 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000259
+    CSP time  : 00:00:02.8947059
+    -----------------------------------------------
+    Graph with 300 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0026898
+    CSP time  : 00:00:00.2839873
+    -----------------------------------------------
+    Graph with 300 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001277
+    CSP time  : 00:00:01.5341570
+    -----------------------------------------------
+    Graph with 300 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000561
+    CSP time  : 00:00:02.7964271
+    -----------------------------------------------
+    Graph with 300 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000286
+    CSP time  : 00:00:03.8771785
+    -----------------------------------------------
+    Graph with 300 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000223
+    CSP time  : 00:00:04.6109443
+    -----------------------------------------------
+    Graph with 350 vertices and 10 edge percentage:
+    Brute time: 00:00:00.1077336
+    CSP time  : 00:00:00.4346726
+    -----------------------------------------------
+    Graph with 350 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001903
+    CSP time  : 00:00:02.3770029
+    -----------------------------------------------
+    Graph with 350 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000865
+    CSP time  : 00:00:04.2987802
+    -----------------------------------------------
+    Graph with 350 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000813
+    CSP time  : 00:00:06.0024252
+    -----------------------------------------------
+    Graph with 350 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000402
+    CSP time  : 00:00:07.1960330
+    -----------------------------------------------
+    Graph with 400 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0071996
+    CSP time  : 00:00:00.6004782
+    -----------------------------------------------
+    Graph with 400 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0000754
+    CSP time  : 00:00:03.3478803
+    -----------------------------------------------
+    Graph with 400 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000627
+    CSP time  : 00:00:06.2469412
+    -----------------------------------------------
+    Graph with 400 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000409
+    CSP time  : 00:00:08.5306184
+    -----------------------------------------------
+    Graph with 400 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000475
+    CSP time  : 00:00:10.4159809
+    -----------------------------------------------
+    Graph with 450 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0725448
+    CSP time  : 00:00:00.8831844
+    -----------------------------------------------
+    Graph with 450 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0006676
+    CSP time  : 00:00:04.4397595
+    -----------------------------------------------
+    Graph with 450 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000255
+    CSP time  : 00:00:08.5133789
+    -----------------------------------------------
+    Graph with 450 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000312
+    CSP time  : 00:00:11.3524391
+    -----------------------------------------------
+    Graph with 450 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0001084
+    CSP time  : 00:00:14.6209136
+    -----------------------------------------------
+    Graph with 500 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0301557
+    CSP time  : 00:00:01.1557775
+    -----------------------------------------------
+    Graph with 500 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001493
+    CSP time  : 00:00:06.1908251
+    -----------------------------------------------
+    Graph with 500 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000763
+    CSP time  : 00:00:11.4343675
+    -----------------------------------------------
+    Graph with 500 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000316
+    CSP time  : 00:00:15.6647881
+    -----------------------------------------------
+    Graph with 500 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000673
+    CSP time  : 00:00:18.9952970
+    -----------------------------------------------
+    Graph with 550 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0325037
+    CSP time  : 00:00:01.3396835
+    -----------------------------------------------
+    Graph with 550 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0007033
+    CSP time  : 00:00:07.8886789
+    -----------------------------------------------
+    Graph with 550 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0001231
+    CSP time  : 00:00:15.0026187
+    -----------------------------------------------
+    Graph with 550 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0001089
+    CSP time  : 00:00:20.3128145
+    -----------------------------------------------
+    Graph with 550 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0001185
+    CSP time  : 00:00:24.7410363
+    -----------------------------------------------
+    Graph with 600 vertices and 10 edge percentage:
+    Brute time: 00:00:00.1265490
+    CSP time  : 00:00:01.7818285
+    -----------------------------------------------
+    Graph with 600 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001782
+    CSP time  : 00:00:09.6198668
+    -----------------------------------------------
+    Graph with 600 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0003384
+    CSP time  : 00:00:18.7897277
+    -----------------------------------------------
+    Graph with 600 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000386
+    CSP time  : 00:00:25.9925464
+    -----------------------------------------------
+    Graph with 600 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0001260
+    CSP time  : 00:00:31.7829216
+    -----------------------------------------------
+    Graph with 650 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0103845
+    CSP time  : 00:00:02.2101257
+    -----------------------------------------------
+    Graph with 650 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0011449
+    CSP time  : 00:00:11.9953921
+    -----------------------------------------------
+    Graph with 650 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000646
+    CSP time  : 00:00:23.7197729
+    -----------------------------------------------
+    Graph with 650 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000558
+    CSP time  : 00:00:31.5824524
+    -----------------------------------------------
+    Graph with 650 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000487
+    CSP time  : 00:00:40.2643516
+    -----------------------------------------------
+    Graph with 700 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0287600
+    CSP time  : 00:00:02.7508066
+    -----------------------------------------------
+    Graph with 700 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0002978
+    CSP time  : 00:00:14.3617535
+    -----------------------------------------------
+    Graph with 700 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0001634
+    CSP time  : 00:00:28.3391534
+    -----------------------------------------------
+    Graph with 700 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000450
+    CSP time  : 00:00:39.6602647
+    -----------------------------------------------
+    Graph with 700 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000505
+    CSP time  : 00:00:47.8662828
+    -----------------------------------------------
+    Graph with 750 vertices and 10 edge percentage:
+    Brute time: 00:00:01.5279639
+    CSP time  : 00:00:03.0138329
+    -----------------------------------------------
+    Graph with 750 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001849
+    CSP time  : 00:00:18.1388107
+    -----------------------------------------------
+    Graph with 750 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0001142
+    CSP time  : 00:00:34.3261923
+    -----------------------------------------------
+    Graph with 750 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0001812
+    CSP time  : 00:00:47.8367599
+    -----------------------------------------------
+    Graph with 750 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000643
+    CSP time  : 00:00:58.5569603
+    -----------------------------------------------
+    Graph with 800 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0211435
+    CSP time  : 00:00:03.6348345
+    -----------------------------------------------
+    Graph with 800 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0000736
+    CSP time  : 00:00:22.5659401
+    -----------------------------------------------
+    Graph with 800 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0001107
+    CSP time  : 00:00:44.3261994
+    -----------------------------------------------
+    Graph with 800 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000749
+    CSP time  : 00:01:00.4807146
+    -----------------------------------------------
+    Graph with 800 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0001447
+    CSP time  : 00:01:18.9743705
+    -----------------------------------------------
+    Graph with 850 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0047121
+    CSP time  : 00:00:04.6570255
+    -----------------------------------------------
+    Graph with 850 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0001487
+    CSP time  : 00:00:25.6731928
+    -----------------------------------------------
+    Graph with 850 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0000841
+    CSP time  : 00:00:49.7387429
+    -----------------------------------------------
+    Graph with 850 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0001015
+    CSP time  : 00:01:11.3643588
+    -----------------------------------------------
+    Graph with 850 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0001221
+    CSP time  : 00:01:31.5893903
+    -----------------------------------------------
+    Graph with 900 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0244966
+    CSP time  : 00:00:05.6273808
+    -----------------------------------------------
+    Graph with 900 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0013037
+    CSP time  : 00:00:31.6229991
+    -----------------------------------------------
+    Graph with 900 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0002605
+    CSP time  : 00:01:02.1995695
+    -----------------------------------------------
+    Graph with 900 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000526
+    CSP time  : 00:01:31.3074154
+    -----------------------------------------------
+    Graph with 900 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0001488
+    CSP time  : 00:01:41.8340871
+    -----------------------------------------------
+    Graph with 950 vertices and 10 edge percentage:
+    Brute time: 00:00:00.0697661
+    CSP time  : 00:00:06.4871945
+    -----------------------------------------------
+    Graph with 950 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0002997
+    CSP time  : 00:00:37.5788097
+    -----------------------------------------------
+    Graph with 950 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0001722
+    CSP time  : 00:01:09.2221535
+    -----------------------------------------------
+    Graph with 950 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0001965
+    CSP time  : 00:01:37.9716830
+    -----------------------------------------------
+    Graph with 950 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000782
+    CSP time  : 00:02:00.0786032
+    -----------------------------------------------
+    Graph with 1000 vertices and 10 edge percentage:
+    Brute time: 00:00:00.2840762
+    CSP time  : 00:00:07.5963962
+    -----------------------------------------------
+    Graph with 1000 vertices and 30 edge percentage:
+    Brute time: 00:00:00.0004636
+    CSP time  : 00:00:42.5920721
+    -----------------------------------------------
+    Graph with 1000 vertices and 50 edge percentage:
+    Brute time: 00:00:00.0003936
+    CSP time  : 00:01:29.6700988
+    -----------------------------------------------
+    Graph with 1000 vertices and 70 edge percentage:
+    Brute time: 00:00:00.0000919
+    CSP time  : 00:01:58.9518431
+    -----------------------------------------------
+    Graph with 1000 vertices and 90 edge percentage:
+    Brute time: 00:00:00.0000794
+    CSP time  : 00:02:17.7937668
+    -----------------------------------------------

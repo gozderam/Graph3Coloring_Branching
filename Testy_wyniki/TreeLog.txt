@@ -1,0 +1,45 @@
+﻿ ThreeColoringAlgorithmsTests.ColoringTests.TreeTo500VerticesTest
+   Source: CombineColoringTest.cs line 176
+   Duration: 1.8 sec
+
+  Standard Output: 
+    Tree with 50 vertices:
+    Brute time: 00:00:00.0007739
+    CSP time  : 00:00:00.0274493
+    -----------------------------------------------
+    Tree with 100 vertices:
+    Brute time: 00:00:00.0000194
+    CSP time  : 00:00:00.0177645
+    -----------------------------------------------
+    Tree with 150 vertices:
+    Brute time: 00:00:00.0000249
+    CSP time  : 00:00:00.0357676
+    -----------------------------------------------
+    Tree with 200 vertices:
+    Brute time: 00:00:00.0000333
+    CSP time  : 00:00:00.0629072
+    -----------------------------------------------
+    Tree with 250 vertices:
+    Brute time: 00:00:00.0000425
+    CSP time  : 00:00:00.1015610
+    -----------------------------------------------
+    Tree with 300 vertices:
+    Brute time: 00:00:00.0000487
+    CSP time  : 00:00:00.1485713
+    -----------------------------------------------
+    Tree with 350 vertices:
+    Brute time: 00:00:00.0000533
+    CSP time  : 00:00:00.2212463
+    -----------------------------------------------
+    Tree with 400 vertices:
+    Brute time: 00:00:00.0000646
+    CSP time  : 00:00:00.3023127
+    -----------------------------------------------
+    Tree with 450 vertices:
+    Brute time: 00:00:00.0000756
+    CSP time  : 00:00:00.3786747
+    -----------------------------------------------
+    Tree with 500 vertices:
+    Brute time: 00:00:00.0000771
+    CSP time  : 00:00:00.4527227
+    -----------------------------------------------

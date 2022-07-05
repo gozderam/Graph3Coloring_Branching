@@ -1,0 +1,36 @@
+Graph with 50 vertices:
+CSP   time: 00:00:00.0059017. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0597295. Found:  Yes
+-----------------------------------------------
+Graph with 150 vertices:
+CSP   time: 00:00:00.0797319. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.0997319. Found:  Yes
+-----------------------------------------------
+Graph with 250 vertices:
+CSP   time: 00:00:00.1397319. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2197319. Found:  Yes
+-----------------------------------------------
+Graph with 350 vertices:
+CSP   time: 00:00:00.3814355. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4555203. Found:  Yes
+-----------------------------------------------
+Graph with 450 vertices:
+CSP   time: 00:00:00.4955203. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.6989605. Found:  Yes
+-----------------------------------------------
+Graph with 550 vertices:
+CSP   time: 00:00:00.9106970. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3816559. Found:  Yes
+-----------------------------------------------

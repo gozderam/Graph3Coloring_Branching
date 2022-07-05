@@ -1,0 +1,165 @@
+﻿ ThreeColoringAlgorithmsTests.ColoringTests.BipartieGraphTest
+   Source: CombineColoringTest.cs line 221
+   Duration: 55.8 sec
+
+  Standard Output: 
+    Bipartie Graph with 50 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0007696
+    CSP time  : 00:00:00.0280914
+    -----------------------------------------------
+    Bipartie Graph with 50 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0000172
+    CSP time  : 00:00:00.0112555
+    -----------------------------------------------
+    Bipartie Graph with 50 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0000212
+    CSP time  : 00:00:00.0106005
+    -----------------------------------------------
+    Bipartie Graph with 50 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0000134
+    CSP time  : 00:00:00.0054976
+    -----------------------------------------------
+    Bipartie Graph with 100 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0000333
+    CSP time  : 00:00:00.0292853
+    -----------------------------------------------
+    Bipartie Graph with 100 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0000261
+    CSP time  : 00:00:00.0182368
+    -----------------------------------------------
+    Bipartie Graph with 100 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0000268
+    CSP time  : 00:00:00.0181407
+    -----------------------------------------------
+    Bipartie Graph with 100 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0000348
+    CSP time  : 00:00:00.0344754
+    -----------------------------------------------
+    Bipartie Graph with 150 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0000561
+    CSP time  : 00:00:00.2074139
+    -----------------------------------------------
+    Bipartie Graph with 150 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0000630
+    CSP time  : 00:00:00.1461688
+    -----------------------------------------------
+    Bipartie Graph with 150 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0000662
+    CSP time  : 00:00:00.1525369
+    -----------------------------------------------
+    Bipartie Graph with 150 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0000603
+    CSP time  : 00:00:00.1019108
+    -----------------------------------------------
+    Bipartie Graph with 200 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0000738
+    CSP time  : 00:00:00.2015847
+    -----------------------------------------------
+    Bipartie Graph with 200 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0000963
+    CSP time  : 00:00:00.3629770
+    -----------------------------------------------
+    Bipartie Graph with 200 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0000660
+    CSP time  : 00:00:00.1217139
+    -----------------------------------------------
+    Bipartie Graph with 200 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0000650
+    CSP time  : 00:00:00.1216558
+    -----------------------------------------------
+    Bipartie Graph with 250 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0001105
+    CSP time  : 00:00:00.3686292
+    -----------------------------------------------
+    Bipartie Graph with 250 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0001406
+    CSP time  : 00:00:00.6139701
+    -----------------------------------------------
+    Bipartie Graph with 250 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0001255
+    CSP time  : 00:00:00.4142050
+    -----------------------------------------------
+    Bipartie Graph with 250 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0001526
+    CSP time  : 00:00:00.6453497
+    -----------------------------------------------
+    Bipartie Graph with 300 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0001390
+    CSP time  : 00:00:00.6128587
+    -----------------------------------------------
+    Bipartie Graph with 300 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0009213
+    CSP time  : 00:00:01.0049507
+    -----------------------------------------------
+    Bipartie Graph with 300 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0002288
+    CSP time  : 00:00:01.3859151
+    -----------------------------------------------
+    Bipartie Graph with 300 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0001804
+    CSP time  : 00:00:00.7661110
+    -----------------------------------------------
+    Bipartie Graph with 350 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0001458
+    CSP time  : 00:00:00.5625355
+    -----------------------------------------------
+    Bipartie Graph with 350 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0001532
+    CSP time  : 00:00:00.5648969
+    -----------------------------------------------
+    Bipartie Graph with 350 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0002848
+    CSP time  : 00:00:01.6645755
+    -----------------------------------------------
+    Bipartie Graph with 350 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0001568
+    CSP time  : 00:00:00.5581206
+    -----------------------------------------------
+    Bipartie Graph with 400 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0002453
+    CSP time  : 00:00:02.4915596
+    -----------------------------------------------
+    Bipartie Graph with 400 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0003145
+    CSP time  : 00:00:02.3524072
+    -----------------------------------------------
+    Bipartie Graph with 400 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0003446
+    CSP time  : 00:00:02.3659748
+    -----------------------------------------------
+    Bipartie Graph with 400 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0003903
+    CSP time  : 00:00:03.0982889
+    -----------------------------------------------
+    Bipartie Graph with 450 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0002187
+    CSP time  : 00:00:01.0084681
+    -----------------------------------------------
+    Bipartie Graph with 450 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0003336
+    CSP time  : 00:00:02.3758820
+    -----------------------------------------------
+    Bipartie Graph with 450 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0004849
+    CSP time  : 00:00:04.3943961
+    -----------------------------------------------
+    Bipartie Graph with 450 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0004831
+    CSP time  : 00:00:04.4138067
+    -----------------------------------------------
+    Bipartie Graph with 500 vertices and 20 edge percentage:
+    Brute time: 00:00:00.0003637
+    CSP time  : 00:00:04.6052291
+    -----------------------------------------------
+    Bipartie Graph with 500 vertices and 40 edge percentage:
+    Brute time: 00:00:00.0004755
+    CSP time  : 00:00:04.8149522
+    -----------------------------------------------
+    Bipartie Graph with 500 vertices and 60 edge percentage:
+    Brute time: 00:00:00.0005762
+    CSP time  : 00:00:07.7049906
+    -----------------------------------------------
+    Bipartie Graph with 500 vertices and 80 edge percentage:
+    Brute time: 00:00:00.0005339
+    CSP time  : 00:00:05.1462668
+    -----------------------------------------------

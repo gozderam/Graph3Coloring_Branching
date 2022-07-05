@@ -1,0 +1,205 @@
+﻿ ThreeColoringAlgorithmsTests.ColoringTests.ApproximateNeighboursSmallTest
+   Source: CombineColoringTest.cs line 447
+   Duration: 19.2 min
+
+  Standard Output: 
+    Grpahs with approximate 2 neighbours
+    Graph with 10 vertices:
+    Brute time: 00:00:00.0007460. Found:  Yes
+    CSP   time: 00:00:00.0251610. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 20 vertices:
+    Brute time: 00:00:00.0007601. Found:  Yes
+    CSP   time: 00:00:00.0236468. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 30 vertices:
+    Brute time: 00:00:00.0000067. Found:  Yes
+    CSP   time: 00:00:00.0041898. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 40 vertices:
+    Brute time: 00:00:00.0000085. Found:  Yes
+    CSP   time: 00:00:00.0064252. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 50 vertices:
+    Brute time: 00:00:00.0000120. Found:  Yes
+    CSP   time: 00:00:00.0065608. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 60 vertices:
+    Brute time: 00:00:00.0000123. Found:  Yes
+    CSP   time: 00:00:00.0084971. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 70 vertices:
+    Brute time: 00:00:00.0000157. Found:  Yes
+    CSP   time: 00:00:00.0110084. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 2 neighbours
+    Graph with 80 vertices:
+    Brute time: 00:00:00.0000181. Found:  Yes
+    CSP   time: 00:00:00.0152096. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 10 vertices:
+    Brute time: 00:00:00.0000051. Found:  Yes
+    CSP   time: 00:00:00.0013352. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 20 vertices:
+    Brute time: 00:00:00.0000084. Found:  Yes
+    CSP   time: 00:00:00.0043080. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 30 vertices:
+    Brute time: 00:00:00.0000975. Found:  Yes
+    CSP   time: 00:00:00.0030071. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 40 vertices:
+    Brute time: 00:00:00.0047901. Found:  Yes
+    CSP   time: 00:00:00.0037277. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 50 vertices:
+    Brute time: 00:00:00.0002097. Found:  Yes
+    CSP   time: 00:00:00.0065614. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 60 vertices:
+    Brute time: 00:00:00.0356661. Found:  Yes
+    CSP   time: 00:00:00.0079231. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 70 vertices:
+    Brute time: 00:00:00.0217259. Found:  Yes
+    CSP   time: 00:00:00.0141909. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 3 neighbours
+    Graph with 80 vertices:
+    Brute time: 00:00:01.6343804. Found:  Yes
+    CSP   time: 00:00:00.0191769. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 10 vertices:
+    Brute time: 00:00:00.0000047. Found:  Yes
+    CSP   time: 00:00:00.0002920. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 20 vertices:
+    Brute time: 00:00:00.0003930. Found:  No
+    CSP   time: 00:00:00.0019359. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 30 vertices:
+    Brute time: 00:00:00.0000074. Found:  Yes
+    CSP   time: 00:00:00.0025360. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 40 vertices:
+    Brute time: 00:00:00.0142643. Found:  Yes
+    CSP   time: 00:00:00.0077239. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 50 vertices:
+    Brute time: 00:00:00.9284325. Found:  No
+    CSP   time: 00:00:00.0681520. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 60 vertices:
+    Brute time: 00:00:15.9724532. Found:  No
+    CSP   time: 00:00:00.1734741. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 70 vertices:
+    Brute time: 00:07:02.1312638. Found:  No
+    CSP   time: 00:00:01.3794052. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 4 neighbours
+    Graph with 80 vertices:
+    Brute time: 00:08:42.1579491. Found:  Yes
+    CSP   time: 00:00:00.1058269. Found:  Yes
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 10 vertices:
+    Brute time: 00:00:00.0000340. Found:  No
+    CSP   time: 00:00:00.0039958. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 20 vertices:
+    Brute time: 00:00:00.0000253. Found:  No
+    CSP   time: 00:00:00.0025577. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 30 vertices:
+    Brute time: 00:00:00.0008739. Found:  No
+    CSP   time: 00:00:00.0032921. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 40 vertices:
+    Brute time: 00:00:00.0082793. Found:  No
+    CSP   time: 00:00:00.0121617. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 50 vertices:
+    Brute time: 00:00:00.0067163. Found:  No
+    CSP   time: 00:00:00.0048007. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 60 vertices:
+    Brute time: 00:00:00.2473923. Found:  No
+    CSP   time: 00:00:00.0243538. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 70 vertices:
+    Brute time: 00:00:00.6300161. Found:  No
+    CSP   time: 00:00:00.0665994. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 5 neighbours
+    Graph with 80 vertices:
+    Brute time: 00:03:07.4397748. Found:  No
+    CSP   time: 00:00:00.0953942. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 10 vertices:
+    Brute time: 00:00:00.0000227. Found:  No
+    CSP   time: 00:00:00.0006733. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 20 vertices:
+    Brute time: 00:00:00.0000972. Found:  No
+    CSP   time: 00:00:00.0019070. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 30 vertices:
+    Brute time: 00:00:00.0001145. Found:  No
+    CSP   time: 00:00:00.0049337. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 40 vertices:
+    Brute time: 00:00:00.0011351. Found:  No
+    CSP   time: 00:00:00.0050129. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 50 vertices:
+    Brute time: 00:00:00.0092995. Found:  No
+    CSP   time: 00:00:00.0134966. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 60 vertices:
+    Brute time: 00:00:00.0280053. Found:  No
+    CSP   time: 00:00:00.0099423. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 70 vertices:
+    Brute time: 00:00:00.1637614. Found:  No
+    CSP   time: 00:00:00.0176897. Found:  No
+    -----------------------------------------------
+    Grpahs with approximate 6 neighbours
+    Graph with 80 vertices:
+    Brute time: 00:00:00.1537859. Found:  No
+    CSP   time: 00:00:00.0231672. Found:  No
+    -----------------------------------------------

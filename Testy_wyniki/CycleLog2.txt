@@ -1,0 +1,45 @@
+﻿ ThreeColoringAlgorithmsTests.ColoringTests.CycleTo500VerticesTest
+   Source: CombineColoringTest.cs line 176
+   Duration: 1.8 sec
+
+  Standard Output: 
+    Cycle with 50 vertices:
+    Brute time: 00:00:00.0007739
+    CSP time  : 00:00:00.0274493
+    -----------------------------------------------
+    Cycle with 100 vertices:
+    Brute time: 00:00:00.0000194
+    CSP time  : 00:00:00.0177645
+    -----------------------------------------------
+    Cycle with 150 vertices:
+    Brute time: 00:00:00.0000249
+    CSP time  : 00:00:00.0357676
+    -----------------------------------------------
+    Cycle with 200 vertices:
+    Brute time: 00:00:00.0000333
+    CSP time  : 00:00:00.0629072
+    -----------------------------------------------
+    Cycle with 250 vertices:
+    Brute time: 00:00:00.0000425
+    CSP time  : 00:00:00.1015610
+    -----------------------------------------------
+    Cycle with 300 vertices:
+    Brute time: 00:00:00.0000487
+    CSP time  : 00:00:00.1485713
+    -----------------------------------------------
+    Cycle with 350 vertices:
+    Brute time: 00:00:00.0000533
+    CSP time  : 00:00:00.2212463
+    -----------------------------------------------
+    Cycle with 400 vertices:
+    Brute time: 00:00:00.0000646
+    CSP time  : 00:00:00.3023127
+    -----------------------------------------------
+    Cycle with 450 vertices:
+    Brute time: 00:00:00.0000756
+    CSP time  : 00:00:00.3786747
+    -----------------------------------------------
+    Cycle with 500 vertices:
+    Brute time: 00:00:00.0000771
+    CSP time  : 00:00:00.4527227
+    -----------------------------------------------

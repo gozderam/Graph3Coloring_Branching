@@ -1,0 +1,624 @@
+Graph with 100 vertices:
+CSP   time: 00:00:00.0617247. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:15.2101236. Found:  No
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0326617. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0628696. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0203461. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0340500. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0324701. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0513277. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0220701. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0320763. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0271705. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.2986229. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0324572. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0360607. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0336031. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0224701. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0287860. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0315210. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0474848. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0452042. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1529276. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1579441. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1984151. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1236685. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1582769. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1352582. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1741993. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.2180249. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1383014. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1382986. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.2660604. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1860675. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.2026187. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.2397688. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.4286718. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1120284. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1723476. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.2191099. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:05.6744931. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1154985. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1460339. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1821215. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:02.2498471. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1280092. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1337612. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1601067. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:01.0760176. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1231177. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1441351. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.2199023. Found:  Yes
+-----------------------------------------------
+Graph with 200 vertices:
+CSP   time: 00:00:00.1286302. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3338780. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.4995112. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3449894. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:02.0275471. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2856213. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3454986. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2821713. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2259009. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2919838. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.4485458. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3030537. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2880604. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2784463. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.4224749. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2792168. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3760804. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2929025. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3623337. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3306013. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3584688. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3895512. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3650483. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:07.8660629. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3070539. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3794861. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3368604. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:04.1147308. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2898898. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.2920788. Found:  Yes
+-----------------------------------------------
+Graph with 300 vertices:
+CSP   time: 00:00:00.3726546. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0622061. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.1874718. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0346438. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.9968498. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0243429. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0282614. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:05.6074146. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0408696. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0304188. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0319255. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0313514. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0307538. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0224209. Found:  Yes
+-----------------------------------------------
+Graph with 100 vertices:
+CSP   time: 00:00:00.0881288. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.6163199. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5944837. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4049491. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.7410645. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5538546. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5183578. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5329643. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5704499. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5928626. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4789883. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5372618. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5740758. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5762821. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4491897. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5098900. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5333943. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4884619. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4557734. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.6192937. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4978926. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4498532. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:19.8861582. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5414863. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5584626. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4329836. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.6014197. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5704018. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5470529. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4364127. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.6602768. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5201515. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.5377852. Found:  Yes
+-----------------------------------------------
+Graph with 400 vertices:
+CSP   time: 00:00:00.4757351. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:01.0349514. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9121977. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8514523. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7919687. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9110190. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7518793. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8333612. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7773606. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8626722. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9061776. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7911675. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8333652. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9672987. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9027330. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7052888. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8137208. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8532094. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8717668. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8996405. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8143890. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9636456. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9677890. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7450170. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:01.0782656. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9345193. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8979664. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7446587. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8344221. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9010273. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8383330. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7767637. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9986728. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8227099. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8322312. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8446700. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8223069. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.9398354. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8810604. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.7571603. Found:  Yes
+-----------------------------------------------
+Graph with 500 vertices:
+CSP   time: 00:00:00.8443719. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3955833. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3745097. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.0196899. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.5087369. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3251532. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2594812. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.0625225. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3770580. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3978374. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2438018. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.1364070. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.7017621. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3090574. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.1134004. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:00.9682801. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3654086. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2813211. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3552551. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.0846816. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.4167271. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.4527727. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3700575. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.0464382. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3137610. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.4128891. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2588894. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.0263797. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.1879758. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2917876. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3221447. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.1082734. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.4301084. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2907474. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3739746. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:00.9769061. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3076606. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.3510565. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2850751. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.0497368. Found:  Yes
+-----------------------------------------------
+Graph with 600 vertices:
+CSP   time: 00:00:01.2256985. Found:  Yes
+-----------------------------------------------
